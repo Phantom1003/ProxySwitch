@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36127.28
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProxySwitch", "ProxySwitch.csproj", "{4F7053A4-014D-4A6F-A9C0-BB56B70EF74B}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "ProxySwitch Installer", "..\ProxySwitch Installer\ProxySwitch Installer.vdproj", "{E434C347-5A35-F93B-73B8-E35360E8736E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4F7053A4-014D-4A6F-A9C0-BB56B70EF74B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4F7053A4-014D-4A6F-A9C0-BB56B70EF74B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4F7053A4-014D-4A6F-A9C0-BB56B70EF74B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4F7053A4-014D-4A6F-A9C0-BB56B70EF74B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E434C347-5A35-F93B-73B8-E35360E8736E}.Debug|Any CPU.ActiveCfg = Debug
+		{E434C347-5A35-F93B-73B8-E35360E8736E}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BC981ADF-B860-42E1-90F8-16A35D3143D2}
+	EndGlobalSection
+EndGlobal
